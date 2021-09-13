@@ -1,5 +1,10 @@
 # CreateVariables
 
-var age;\\it's must to be over 10 yers 
-var height ;\\it's mast to be over the 42
-console.log(age,height);
+var age =10;s 
+var height =52 ;
+if (age > 52){
+console.log("Get on that ride, kiddo!");
+}
+else {
+console.log("Sorry kiddo. Maybe next year.")
+}
